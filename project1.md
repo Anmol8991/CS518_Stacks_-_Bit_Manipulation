@@ -1,6 +1,6 @@
 ﻿## CS 416 + CS 518 Project 1: Stacks and Basics (Warm-up Project)
 ### Due: 4th October, 2023, Time: 8:00 pm ET
-### Points: 100 (5% of the overall course points.)
+### Points: 100 (5% of the overall course points)
 
 This simple warm-up project will help you recall basic systems programming
 before the second project. This project's first part will help you recollect
